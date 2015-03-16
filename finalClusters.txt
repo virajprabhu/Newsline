@@ -1,0 +1,10 @@
+Cluster 0:
+	Rohit 264, Sri Lanka 251.txt
+	Cricketing fraternity salutes Rohit Sharma.txt
+	Rohit to the rescue!.txt
+	A special knock, says Rohit.txt
+
+Cluster 1:
+	A word kept.txt
+	ZP Chairman, four others booked in illicit liquor case.txt
+
